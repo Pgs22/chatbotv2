@@ -1,0 +1,12 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+models/
+checkpoints/
+flagged/
+.env
+model_cache/
+.gradio/
+.vscode/
